@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">George Fried chicken Restaurant</string>
+    <string name="about_restaurant">About Restaurant</string>
+    <string name="describeRestaurant">It is a fast food restaurant with delicious food and we invite everyone to try it</string>
+    <string name="menu">Our food</string>
+    <string name="food1">Chicken and potato</string>
+    <string name="food2">French chicken</string>
+    <string name="button1">Order</string>
+    <string name="button2">Order</string>
+    <string name="food3">Calamari</string>
+    <string name="button3">Order</string>
+    <string name="button4">Order</string>
+    <string name="food4">Recipe Meat</string>
+    <string name="address">Restaurant \nAddress:</string>
+    <string name="desAddress">There is no real place for the restaurant</string>
+    <string name="call">Phone:</string>
+    <string name="numCall">123456789</string>
+    <string name="work_hours">Work Hours:</string>
+    <string name="date">From 8 am to 10 pm</string>
+</resources>
